@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834159761088",
+    "project_id": "check0",
+    "storage_bucket": "check0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834159761088:android:7acc39dc8f8b150dba3f25",
+        "android_client_info": {
+          "package_name": "com.example.workos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834159761088-3a31s8pumvj165v1g8muiia3harv1h6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFtOBTS-gDcKelHtiA7NWtqE3m3aqx1oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834159761088-3a31s8pumvj165v1g8muiia3harv1h6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
